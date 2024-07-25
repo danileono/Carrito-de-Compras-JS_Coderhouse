@@ -1,0 +1,57 @@
+[
+    {
+        "nombre": "Laptop 1",
+        "marca": "Asus",
+        "precio": 749990,
+        "img": "imgs/notebook-1.jpg",
+        "id": "1"
+    },
+    {
+        "nombre": "Laptop 2",
+        "marca": "hp",
+        "precio": 674990,
+        "img": "imgs/notebook-2.jpg",
+        "id": "2"
+    },
+    {
+        "nombre": "Laptop 3",
+        "marca": "Asus",
+        "precio": 829990,
+        "img": "imgs/notebook-3.jpg",
+        "id": "3"
+    },
+    {
+        "nombre": "Laptop 4",
+        "marca": "hp",
+        "precio": 599990,
+        "img": "imgs/notebook-4.jpg",
+        "id": "4"
+    },
+    {
+        "nombre": "Laptop 5",
+        "marca": "Acer",
+        "precio": 899990,
+        "img": "imgs/notebook-5.jpg",
+        "id": "5"
+    },
+    {
+        "nombre": "Laptop 6",
+        "marca": "Samsung",
+        "precio": 674900,
+        "img": "imgs/notebook-6.jpg",
+        "id": "6"
+    },    {
+        "nombre": "Laptop 7",
+        "marca": "Lenovo",
+        "precio": 749990,
+        "img": "imgs/notebook-1.jpg",
+        "id": "7"
+    },
+    {
+        "nombre": "Laptop 8",
+        "marca": "Lenovo",
+        "precio": 674990,
+        "img": "imgs/notebook-2.jpg",
+        "id": "8"
+    }
+]
